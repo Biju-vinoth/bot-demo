@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTIFBot", "OTIFBot\OTIFBot.csproj", "{908CD5A4-651A-4C3F-A07D-B99737A490B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{908CD5A4-651A-4C3F-A07D-B99737A490B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{908CD5A4-651A-4C3F-A07D-B99737A490B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{908CD5A4-651A-4C3F-A07D-B99737A490B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{908CD5A4-651A-4C3F-A07D-B99737A490B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FFBE9E0-8B0A-4892-9334-D81E3B119AC7}
+	EndGlobalSection
+EndGlobal
